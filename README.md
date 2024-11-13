@@ -36,3 +36,8 @@ Encryption Page: Users input plaintext, which is encrypted upon pressing "Tap to
 Decryption Page: Shows the encrypted text with a button to decrypt it back to the original message.<br>
 
 This project is still a WIP. Feel free to modify and do get back with your changes.
+
+![Screenshot (136)](https://github.com/user-attachments/assets/67c2916a-175c-4d97-b184-af712379b29b)
+![Screenshot (135)](https://github.com/user-attachments/assets/3a51ea62-712d-4c4f-825a-1e1f743d6d0c)
+![Screenshot (134)](https://github.com/user-attachments/assets/b29cdee7-3d60-4b84-9dd1-4ec65761eb3e)
+
