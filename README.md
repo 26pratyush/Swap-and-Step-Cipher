@@ -34,3 +34,5 @@ The GUI, built with tkinter, provides an intuitive, three-page flow:
 Welcome Page: A start page with a button to initiate the encryption process.
 Encryption Page: Users input plaintext, which is encrypted upon pressing "Tap to Encrypt." The encrypted text is then displayed.
 Decryption Page: Shows the encrypted text with a button to decrypt it back to the original message.
+
+This project is still a WIP. Feel free to modify and do get back with your changes.
